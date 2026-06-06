@@ -1,0 +1,19 @@
+Vendor,Bill,Percentage,Credit_Days,Cost_From_Activities,Description,Last Updated
+Hardware- credit 180 days,Receipt of Material at Noida-60%,60.0,0,"Hardware-IT hardware-server, workstation, switches, firewalls-receipt at L&T",,2026-05-30 16:51:10
+Hardware- credit 180 days,Erection-20%,20.0,180,"Hardware-IT hardware-server, workstation, switches, firewalls-receipt at L&T",,2026-05-30 16:51:10
+Hardware- credit 180 days,Commissioning -10%,10.0,180,"Hardware-IT hardware-server, workstation, switches, firewalls-receipt at L&T",,2026-05-30 16:51:10
+Hardware- credit 180 days,successful Handing over-10%,10.0,180,"Hardware-IT hardware-server, workstation, switches, firewalls-receipt at L&T",,2026-05-30 16:51:10
+Hardware - credit 90 days,100% upon receipt of material,100.0,90,"Hardware-IT hardware-server, workstation, switches, firewalls-receipt at L&T",,2026-05-30 16:52:39
+Hardware-Cables - credit 90 days,100% upon receipt of material,100.0,90,Hardware/FAT at vendor premises,,2026-05-30 16:54:18
+Hardware-workstations - credit 90 days,100% upon receipt of material,100.0,90,Hardware-IT  workstation receipt at L&T factory,,2026-05-30 16:55:02
+I&C- SEIMS-Credit 45 days,"90% against supervision of erection, testing & commissioning",90.0,45,Installation at all locations,,2026-05-30 16:58:30
+I&C- SEIMS-Credit 45 days,10% against handover,10.0,45,Installation at all locations,,2026-05-30 16:58:30
+Software  3rd party-30 days,Receipt-100%,100.0,30,"Software-3rd Party/FAT at L&T premises & Despatch to client premises,Software(SIEM, IDS, IAM)-FAT and Despatch/FAT at L&T premises & Despatch to client premises",,2026-06-03 14:29:04
+Installation progressive-immediate,Installation progressive-immediate,100.0,0,Installation at all locations,,2026-06-03 14:38:05
+Training - Progressive Payment,Training - Progressive Payment,100.0,0,Training,,2026-06-03 14:38:58
+O&M,O&M,100.0,0,AMC,,2026-06-03 14:41:43
+OH cost,OH cost,100.0,0,OH cost,,2026-06-03 14:43:04
+SEIMS Supply-Credit 90 days ,60%  upon FAT,60.0,90,"Software(SIEM, IDS, IAM)-FAT and Despatch/FAT at L&T premises & Despatch to client premises",,2026-06-03 14:47:19
+SEIMS Supply-Credit 90 days ,20% upon erection,20.0,90,"Software(SIEM, IDS, IAM)-FAT and Despatch/FAT at L&T premises & Despatch to client premises",,2026-06-03 14:47:19
+SEIMS Supply-Credit 90 days ,10% against Commissioning,10.0,90,"Software(SIEM, IDS, IAM)-FAT and Despatch/FAT at L&T premises & Despatch to client premises",,2026-06-03 14:47:19
+SEIMS Supply-Credit 90 days ,10% against handover,10.0,90,"Software(SIEM, IDS, IAM)-FAT and Despatch/FAT at L&T premises & Despatch to client premises",,2026-06-03 14:47:19

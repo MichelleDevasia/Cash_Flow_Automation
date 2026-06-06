@@ -1,0 +1,14 @@
+{
+  "buildCommand": "pip install -r requirements.txt",
+  "env": {
+    "STREAMLIT_SERVER_HEADLESS": "true",
+    "STREAMLIT_SERVER_PORT": "8501",
+    "STREAMLIT_SERVER_ENABLEXSRFPROTECTION": "false",
+    "STREAMLIT_LOGGER_LEVEL": "error"
+  },
+  "functions": {
+    "streamlit_app.py": {
+      "runtime": "python3.11"
+    }
+  }
+}
